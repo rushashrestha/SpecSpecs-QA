@@ -3,11 +3,13 @@ This repository contains **manual QA test cases** for the _SpecSpecs_ project. T
 
 ## Modules covered
 - Login Module
+- Signup Module
 - Search Item Module
 
 ## Files
 - 'Login_TestCases': Test Cases for login functionality
 - 'SearchItem_TestCases': Test cases for item search functionality
+- 'Signup_TestCases': Test Cases for signup functionality
 
 ## Author
 - Rusha Shrestha
