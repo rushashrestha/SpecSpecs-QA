@@ -7,6 +7,7 @@ This repository contains **manual QA test cases** for the _SpecSpecs_ project. T
 - Search Item Module
 - Product Display Module
 - Cart Module
+- Checkout Module
 
 ## Files
 - 'Login_TestCases': Test Cases for login functionality
@@ -14,6 +15,7 @@ This repository contains **manual QA test cases** for the _SpecSpecs_ project. T
 - 'SearchItem_TestCases': Test cases for item search functionality
 - 'ProductDisplay_TestCases': Test cases for product display
 - 'Cart_TestCases': Test cases for cart
+- 'Checkout_TestCases': Test cases for checkout
 
 ## Author
 - Rusha Shrestha
